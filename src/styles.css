@@ -4,11 +4,13 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #406;
+}
+
 .App {
   font-family: sans-serif;
   text-align: center;
   color: #fff;
-  background-color: #406;
-  height: 100vh;
   padding: 20px;
 }
